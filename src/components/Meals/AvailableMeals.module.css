@@ -7,9 +7,12 @@
   
   .meals ul {
     list-style: none;
+    color: #000;
     margin: 0;
     padding: 0;
   }
+
+  
   
   @keyframes meals-appear {
     from {
